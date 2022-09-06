@@ -1,0 +1,11 @@
+@import 'base';
+@import 'components';
+@import 'header';
+@import 'preview';
+@import 'searchResults';
+@import 'recipe';
+@import 'upload';
+
+.preview {
+  list-style-type: none;
+}
