@@ -1,4 +1,4 @@
-node_modules/
-.parcel-cache/
-dist/
-.prettierrc
+node_modules
+dist
+.parcel-cache
+.DS_Store
